@@ -1,0 +1,37 @@
+[
+    {
+        "title": "Meet the Sun",
+        "image": "☀️",
+        "completed" : false
+    },
+    {
+        "title": "Dance of Lights",
+        "image": "🌌",
+        "completed" : false
+    },
+    {
+        "title": "The Lost Tractor",
+        "image": "🚜",
+        "completed" : false
+    },
+    {
+        "title": "The Silent Sky",
+        "image": "✈️",
+        "completed" : false
+    },
+    {
+        "title": "Mission: Safe Zone",
+        "image": "🧑🏻‍🚀",
+        "completed" : false
+    }, 
+    {
+        "title": "The Blackout City",
+        "image": "⚡️",
+        "completed" : false
+    },
+    {
+        "title": "Guardian of Earth",
+        "image": "🌏",
+        "completed": false
+    }
+]

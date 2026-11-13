@@ -1,0 +1,116 @@
+{
+    "meet-the-sun" : [
+        {
+            "thumbnail" : "☀️",
+            "title" : "What is the Sun",
+            "subtitle" : "Learn about our amazing star"
+        },
+        {
+            "thumbnail" : "🔥",
+            "title" : "Solar Wind and Solar Flare",
+            "subtitle" : "Discover solar explosions"
+        },
+        {
+            "thumbnail" : "🌍",
+            "title" : "Earth and the Sun",
+            "subtitle" : "How it affects Earth"
+        }
+    ],
+    "dance-of-lights" : [
+        {
+            "thumbnail" : "✨",
+            "title": "Aurora Magic",
+            "subtitle": "The sky's secret light show"
+        },
+        {
+            "thumbnail": "❓",
+            "title": "Why do Auroras Happen",
+            "subtitle": "Space meets Earth's air"
+        },
+        {
+            "thumbnail": "📖",
+            "title": "Aurora Stories",
+            "subtitle": "Legends written in the sky"
+        }
+    ],
+    "the-lost-tractor": [
+        {
+            "thumbnail": "🚜",
+            "title": "How farmers use Satellites",
+            "subtitle": "Space helping grow food"
+        },
+        {
+            "thumbnail": "🌩️",
+            "title": "What Happens in a Storm",
+            "subtitle": "When signals get shaky"
+        },
+        {
+            "thumbnail": "🗞️",
+            "title": "Real Story",
+            "subtitle": "When storms causes surprises"
+        }
+    ],
+    "the-silent-sky": [
+        {
+            "thumbnail": "🎙️",
+            "title": "How Pilots Communicate",
+            "subtitle": "Talking through the sky"
+        },
+        {
+            "thumbnail": "🚫",
+            "title": "When Signals Vanish",
+            "subtitle": "Silence in the cockpit"
+        },
+        {
+            "thumbnail": "🌏",
+            "title": "Why it Matters",
+            "subtitle": "Safety in the skies"
+        }
+    ],
+    "mission-safe-zone": [
+        {
+            "thumbnail": "🛸",
+            "title": "Life in Space",
+            "subtitle": "Living beyond Earth"
+        },
+        {
+            "thumbnail": "⚠️",
+            "title": "Danger Alert",
+            "subtitle": "Space storms incoming!"
+        },
+        {
+            "thumbnail": "🛡️",
+            "title": "The Safe Zone",
+            "subtitle": "Finding shelter among the stars"
+        }
+    ],
+    "the-blackout-city": [
+        {
+            "thumbnail": "💡",
+            "title": "How Power Travels",
+            "subtitle": "Energy's superhighway"
+        },
+        {
+            "thumbnail": "🌪️",
+            "title": "Storm Attack",
+            "subtitle": "When storms hit the wires"
+        },
+        {
+            "thumbnail": "🌃",
+            "title": "Big Blackouts",
+            "subtitle": "A city without lights"
+        }
+    ],
+    "guardian-of-earth": [
+        {
+            "thumbnail": "🔄",
+            "title": "Recap Adventure",
+            "subtitle": "Your space storm journey"
+        },
+        {
+            "thumbnail": "🦸",
+            "title": "You are an Earth Guardian!",
+            "subtitle": "Protecting our home planet"
+        }
+    ]
+}
