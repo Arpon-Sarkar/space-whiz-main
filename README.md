@@ -121,14 +121,14 @@ Integrate more NASA datasets (auroras, CMEs, asteroids)
 
 ## Our Team
 
-- KH Anabil Ditisha (Team Lead)\
+- KH Anabil Ditisha 
   email: <ditisha03@gmail.com>
 
-- Arpon Sarkar Choity (Researcher)\
+- Arpon Sarkar Choity 
   email: <arponsarkar2024@gmail.com>
 
-- Shahriar Imrose Soscho (Story Writer)\
+- Shahriar Imrose Soscho 
   email: <shahriarimrosesoscho@gmail.com>
 
-- Md Masrur Rahman (Developer)\
+- Md Masrur Rahman 
   email: <masrur.mmrs@gmail.com>
